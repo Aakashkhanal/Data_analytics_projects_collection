@@ -1,0 +1,3 @@
+Project Description
+
+I am going to improve the current sign-up flow for a mobile app's registration system at a small startup. I will integrate reusable Python functions that validate user input entered into the form. These functions will be used to approve or reject sign-up attempts before account creation. This will help improve the robustness and quality of the sign-up process and enhance onboarding for thousands of app users.

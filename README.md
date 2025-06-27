@@ -16,7 +16,7 @@ Each project focuses on developing core analytical skills using tools like Pytho
 📁 Project Structure
 
 data-analytics-projects/
-├── project-name-1/
+├── project-name-1/ 
 │   ├── data/
 │   ├── notebook.ipynb
 │   └── README.md
