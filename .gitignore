@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# data to ignore into uploading to github
+online_shopping_session_data.csv
+
 # Distribution / packaging
 .Python
 build/
