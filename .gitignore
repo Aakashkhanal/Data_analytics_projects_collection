@@ -8,6 +8,11 @@ __pycache__/
 
 # data to ignore into uploading to github
 online_shopping_session_data.csv
+client_details.csv
+economic_indicators.csv
+payment_history.csv
+subscription_records.csv
+
 
 # Distribution / packaging
 .Python
