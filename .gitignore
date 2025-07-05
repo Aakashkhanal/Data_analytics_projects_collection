@@ -12,6 +12,10 @@ client_details.csv
 economic_indicators.csv
 payment_history.csv
 subscription_records.csv
+brands.csv
+finance.csv
+info.csv
+reviews.csv
 
 
 # Distribution / packaging
